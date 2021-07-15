@@ -1,7 +1,7 @@
 # AYE
 
 - 📫 You can Reach me via by discord
-- ![website](https://img.shields.io/website?label=DizzeryQ.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)
+- ![website](https://img.shields.io/website?label=DizzeryQ.com&style=for-the-badge&url=https%3A%2F%2Fdizzeryq.com)
 
 ``` 
 ```
