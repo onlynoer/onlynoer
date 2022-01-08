@@ -1,6 +1,6 @@
-# AYE
+  # AYE
 
-- 📫 You can Reach me via by discord DizzeryQ()#8226
+- 📫 You can Reach me via by discord at DizzeryQ ()#8226
 - ![website](https://img.shields.io/website?label=DizzeryQ.com&style=for-the-badge&url=https%3A%2F%2Fdizzeryq.com)
 
 ``` 
