@@ -1,7 +1,7 @@
   # AYE
 
 - 📫 You can Reach me via by discord at <strong>DizzeryQ ()#8226</strong>
-- 📫 Also on my website at <strong>onlynoer.github.io</strong>
+- 📫 Also on my website at <strong>[onlynoer.github.io][website]</strong>
 - ![website](https://img.shields.io/website?label=onlynoer.github.io&style=for-the-badge&url=https%3A%2F%2Fonlynoer.github.io)
 
 ``` 
