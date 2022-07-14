@@ -18,6 +18,6 @@
 
 [<img align="left" alt="Youtube" width="26px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][1][<img align="left" alt="Discord" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png"/>][2]
 
-[1]: https://www.youtube.com/c/dizzeryQ
+[1]: https://www.youtube.com/c/DizzeryQ
 [2]: https://www.discord.gg/BgYnGQG
 [website]: https://onlynoer.github.io
