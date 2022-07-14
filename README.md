@@ -19,3 +19,4 @@
 
 [1]: https://www.youtube.com/c/dizzeryQ
 [2]: https://www.discord.gg/BgYnGQG
+[website]: https://onlynoer.github.io
