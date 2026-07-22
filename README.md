@@ -1,7 +1,7 @@
   # AYE
 
 - 📫 You can Reach me via by discord at <strong>DizzeryQ ()#8226</strong>
-- 📫 Also on my website at <strong>[onlynoer.github.io][website]</strong>
+- 📫 View my portfolio at <strong>[onlynoer.github.io/portfolio][website]</strong>
 - ![website](https://img.shields.io/website?label=onlynoer.github.io&style=for-the-badge&url=https%3A%2F%2Fonlynoer.github.io)
 
 ``` 
@@ -9,7 +9,19 @@
 
 # Languages
 ---
-## <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//typescript/typescript.png" /> <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" /><img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c.svg" /><img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" />
+<div>
+   .
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//typescript/typescript.png" />
+  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" />
+  <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c.svg" />
+  <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" />
+</div>
 
 ---
 
