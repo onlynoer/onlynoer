@@ -33,4 +33,4 @@
 
 [1]: https://www.youtube.com/c/DizzeryQ
 [2]: https://www.discord.gg/BgYnGQG
-[website]: https://onlynoer.github.io
+[website]: https://onlynoer.github.io/portfolio
