@@ -25,6 +25,8 @@
 
 ---
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=onlynoer&layout=donut&langs_count=5&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=onlynoer&layout=donut&langs_count=5&theme=catppuccin_latte)
+
 ```
 ```
 # Youtube/ Discord
